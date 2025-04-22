@@ -99,3 +99,15 @@ export const projectsData = [
         text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
     }
 ];
+
+ export const main =[
+  {
+    image:"public/header_img.png"
+  }
+ ]
+
+ export const about = [
+  {
+    image:"public/brand_img.png"
+  }
+ ]
