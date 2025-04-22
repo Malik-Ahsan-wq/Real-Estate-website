@@ -100,14 +100,3 @@ export const projectsData = [
     }
 ];
 
- export const main =[
-  {
-    image:"public/header_img.png"
-  }
- ]
-
- export const about = [
-  {
-    image:"public/brand_img.png"
-  }
- ]
