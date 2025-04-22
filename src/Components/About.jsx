@@ -17,7 +17,7 @@ const About = () => {
       </p>
       <div className="flex flex-col md:flex-row items-center md:items-start md:gap-20">
         <img
-          src="src/assets/brand_img.png"
+          src="/brand_img.png"
           className="w-full sm:w-1/2 max-w-lg"
           alt=""
         />
